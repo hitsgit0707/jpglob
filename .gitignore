@@ -1,0 +1,28 @@
+# Compiled Bytecode
+*.class
+bin/
+app/bin/
+build/
+out/
+
+# Persistent local runtime data
+voltedge_history.txt
+test_history_temp.txt
+app_test_history.txt
+*.log
+
+# IDE & Editor Configuration
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
